@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://github.com/carlCarlson6">
+  <img align="left" alt="Abhi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a> 
+
 <!--
 **carlCarlson6/carlCarlson6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
