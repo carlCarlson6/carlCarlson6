@@ -6,15 +6,6 @@
 <a href="https://www.linkedin.com/in/carlos-acitores-deval-a3914a1b/">
   <img align="left" alt="Carlos' Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
-<br/>
-
-<div>
-  <a href="https://github.com/carlCarlson6">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlCarlson6&show_icons=true&theme=radical&include_all_commits=true&count_private=true&icon_color=fd418d"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlCarlson6&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
  
 ## ⚙️ Technologies 🛠
 
