@@ -1,11 +1,4 @@
 ### Hi there 👋
-<a href="https://github.com/carlCarlson6">
-  <img align="left" alt="Carlos' Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a> 
-<a href="https://www.linkedin.com/in/carlos-acitores-deval-a3914a1b/">
-  <img align="left" alt="Carlos' Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
- 
  
 ## ⚙️ Technologies 🛠
 
